@@ -1,0 +1,22 @@
+.style
+{
+    text-align: center;
+    color:brown;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.here{
+    text-align: center;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p
+{
+    border: 2px solid red;
+    text-align: center;
+    width: 70%;
+    margin: 40px;
+    padding: 20px;
+    background-image: url(https://as2.ftcdn.net/v2/jpg/01/64/62/13/1000_F_164621341_vA1ZtJNeXpctAy7ASvEMtl5R6RG1pzOa.jpg);
+}
